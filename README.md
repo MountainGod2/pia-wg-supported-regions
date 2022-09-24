@@ -1,1 +1,1 @@
-# pia-wg-autorenew Supported Regions
+# Supported Regions for pia-wg-autorenew
