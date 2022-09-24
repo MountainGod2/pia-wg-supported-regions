@@ -1,0 +1,126 @@
+Allowed values are: 
+
+AU Melbourne
+AU Perth
+AU Sydney
+Albania
+Algeria
+Andorra
+Argentina
+Armenia
+Austria
+Bahamas
+Bangladesh
+Belgium
+Bosnia and Herzegovina
+Brazil
+CA Montreal
+CA Ontario
+CA Toronto
+CA Vancouver
+Cambodia
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cyprus
+Czech Republic
+DE Berlin
+DE Frankfurt
+DK
+Copenhagen
+DK Streaming Optimized
+ES Madrid
+ES Valencia
+Egypt
+Estonia
+FI Helsinki
+FI Streaming Optimized
+France
+Georgia
+Greece
+Greenland
+Hong Kong
+Hungary
+IT Milano
+IT Streaming Optimized
+Iceland
+India
+Indonesia
+Ireland
+Isle of Man
+Israel
+JP Streaming Optimized
+JP Tokyo
+Kazakhstan
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Malaysia
+Malta
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Netherlands
+New Zealand
+Nigeria
+Norway
+Panama
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+SE Stockholm
+SE Streaming Optimized
+Saudi Arabia
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sri
+Lanka
+Switzerland
+Taiwan
+Turkey
+UK London
+UK
+Manchester
+UK Southampton
+UK Streaming Optimized
+US
+Atlanta
+US Baltimore
+US California
+US Chicago
+US Denver
+US East
+US East Streaming Optimized
+US Florida
+US
+Honolulu
+US Houston
+US Las Vegas
+US New York
+US Salt
+Lake City
+US Seattle
+US Silicon Valley
+US Texas
+US
+Washington DC
+US West
+US West Streaming Optimized
+US
+Wilmington
+Ukraine
+United Arab Emirates
+Venezuela
+Vietnam
