@@ -1,5 +1,3 @@
-Allowed values are: 
-
 AU Melbourne
 AU Perth
 AU Sydney
